@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class LibroNoEncontrado(Exception):
     pass
 
